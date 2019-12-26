@@ -1,0 +1,4283 @@
+{
+"3": {
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 182
+            },
+            {
+              "x": 546
+            },
+            {
+              "x": 546,
+              "y": 454
+            },
+            {
+              "x": 182,
+              "y": 454
+            }
+          ]
+        },
+        "confidence": 0.53125,
+        "importanceFraction": 0.8
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 136
+            },
+            {
+              "x": 591
+            },
+            {
+              "x": 591,
+              "y": 454
+            },
+            {
+              "x": 136,
+              "y": 454
+            }
+          ]
+        },
+        "confidence": 0.53125,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 91
+            },
+            {
+              "x": 637
+            },
+            {
+              "x": 637,
+              "y": 454
+            },
+            {
+              "x": 91,
+              "y": 454
+            }
+          ]
+        },
+        "confidence": 0.4427084,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "faceAnnotations": [
+    {
+      "angerLikelihood": "VERY_UNLIKELY",
+      "blurredLikelihood": "VERY_UNLIKELY",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 403,
+            "y": 37
+          },
+          {
+            "x": 547,
+            "y": 37
+          },
+          {
+            "x": 547,
+            "y": 204
+          },
+          {
+            "x": 403,
+            "y": 204
+          }
+        ]
+      },
+      "detectionConfidence": 0.995244,
+      "fdBoundingPoly": {
+        "vertices": [
+          {
+            "x": 422,
+            "y": 79
+          },
+          {
+            "x": 526,
+            "y": 79
+          },
+          {
+            "x": 526,
+            "y": 183
+          },
+          {
+            "x": 422,
+            "y": 183
+          }
+        ]
+      },
+      "headwearLikelihood": "POSSIBLE",
+      "joyLikelihood": "LIKELY",
+      "landmarkingConfidence": 0.6799711,
+      "landmarks": [
+        {
+          "position": {
+            "x": 448.52267,
+            "y": 109.380035,
+            "z": 0.00016165987
+          },
+          "type": "LEFT_EYE"
+        },
+        {
+          "position": {
+            "x": 492.6112,
+            "y": 109.02376,
+            "z": -5.1552663
+          },
+          "type": "RIGHT_EYE"
+        },
+        {
+          "position": {
+            "x": 435.03735,
+            "y": 99.98366,
+            "z": 6.333969
+          },
+          "type": "LEFT_OF_LEFT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 459.10193,
+            "y": 99.07667,
+            "z": -9.117684
+          },
+          "type": "RIGHT_OF_LEFT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 480.2071,
+            "y": 99.25111,
+            "z": -11.619407
+          },
+          "type": "LEFT_OF_RIGHT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 507.3925,
+            "y": 100.926865,
+            "z": -2.2188585
+          },
+          "type": "RIGHT_OF_RIGHT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 469.33795,
+            "y": 108.49248,
+            "z": -11.610989
+          },
+          "type": "MIDPOINT_BETWEEN_EYES"
+        },
+        {
+          "position": {
+            "x": 467.41324,
+            "y": 133.13467,
+            "z": -26.080593
+          },
+          "type": "NOSE_TIP"
+        },
+        {
+          "position": {
+            "x": 468.51068,
+            "y": 149.78798,
+            "z": -16.933334
+          },
+          "type": "UPPER_LIP"
+        },
+        {
+          "position": {
+            "x": 468.70612,
+            "y": 163.64001,
+            "z": -14.810467
+          },
+          "type": "LOWER_LIP"
+        },
+        {
+          "position": {
+            "x": 452.52533,
+            "y": 154.55853,
+            "z": -3.4941564
+          },
+          "type": "MOUTH_LEFT"
+        },
+        {
+          "position": {
+            "x": 487.96716,
+            "y": 154.73409,
+            "z": -7.362307
+          },
+          "type": "MOUTH_RIGHT"
+        },
+        {
+          "position": {
+            "x": 468.8822,
+            "y": 156.31955,
+            "z": -14.178019
+          },
+          "type": "MOUTH_CENTER"
+        },
+        {
+          "position": {
+            "x": 480.66904,
+            "y": 137.59265,
+            "z": -11.068853
+          },
+          "type": "NOSE_BOTTOM_RIGHT"
+        },
+        {
+          "position": {
+            "x": 458.25433,
+            "y": 137.09412,
+            "z": -8.318535
+          },
+          "type": "NOSE_BOTTOM_LEFT"
+        },
+        {
+          "position": {
+            "x": 468.21072,
+            "y": 140.3505,
+            "z": -16.515724
+          },
+          "type": "NOSE_BOTTOM_CENTER"
+        },
+        {
+          "position": {
+            "x": 448.5864,
+            "y": 106.75055,
+            "z": -2.7806334
+          },
+          "type": "LEFT_EYE_TOP_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 457.02594,
+            "y": 110.76683,
+            "z": -0.90682065
+          },
+          "type": "LEFT_EYE_RIGHT_CORNER"
+        },
+        {
+          "position": {
+            "x": 448.43,
+            "y": 113.15847,
+            "z": -0.61492354
+          },
+          "type": "LEFT_EYE_BOTTOM_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 440.74728,
+            "y": 110.29817,
+            "z": 4.908906
+          },
+          "type": "LEFT_EYE_LEFT_CORNER"
+        },
+        {
+          "position": {
+            "x": 448.06967,
+            "y": 109.92444,
+            "z": -1.0385909
+          },
+          "type": "LEFT_EYE_PUPIL"
+        },
+        {
+          "position": {
+            "x": 491.87094,
+            "y": 107.10855,
+            "z": -7.904037
+          },
+          "type": "RIGHT_EYE_TOP_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 501.29053,
+            "y": 110.7601,
+            "z": -2.246946
+          },
+          "type": "RIGHT_EYE_RIGHT_CORNER"
+        },
+        {
+          "position": {
+            "x": 492.54565,
+            "y": 112.721054,
+            "z": -5.742296
+          },
+          "type": "RIGHT_EYE_BOTTOM_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 483.47522,
+            "y": 110.03046,
+            "z": -4.0095577
+          },
+          "type": "RIGHT_EYE_LEFT_CORNER"
+        },
+        {
+          "position": {
+            "x": 492.4835,
+            "y": 110.27246,
+            "z": -6.363155
+          },
+          "type": "RIGHT_EYE_PUPIL"
+        },
+        {
+          "position": {
+            "x": 446.71796,
+            "y": 94.017426,
+            "z": -3.8987389
+          },
+          "type": "LEFT_EYEBROW_UPPER_MIDPOINT"
+        },
+        {
+          "position": {
+            "x": 493.65637,
+            "y": 94.43718,
+            "z": -9.452683
+          },
+          "type": "RIGHT_EYEBROW_UPPER_MIDPOINT"
+        },
+        {
+          "position": {
+            "x": 427.3224,
+            "y": 134.84583,
+            "z": 55.052067
+          },
+          "type": "LEFT_EAR_TRAGION"
+        },
+        {
+          "position": {
+            "x": 526.0075,
+            "y": 136.1513,
+            "z": 43.63842
+          },
+          "type": "RIGHT_EAR_TRAGION"
+        },
+        {
+          "position": {
+            "x": 469.50778,
+            "y": 98.55351,
+            "z": -11.972575
+          },
+          "type": "FOREHEAD_GLABELLA"
+        },
+        {
+          "position": {
+            "x": 469.00952,
+            "y": 184.05484,
+            "z": -10.016887
+          },
+          "type": "CHIN_GNATHION"
+        },
+        {
+          "position": {
+            "x": 429.5351,
+            "y": 161.49922,
+            "z": 35.003746
+          },
+          "type": "CHIN_LEFT_GONION"
+        },
+        {
+          "position": {
+            "x": 518.1861,
+            "y": 162.51727,
+            "z": 24.449669
+          },
+          "type": "CHIN_RIGHT_GONION"
+        }
+      ],
+      "panAngle": -6.7746444,
+      "rollAngle": 0.9607817,
+      "sorrowLikelihood": "VERY_UNLIKELY",
+      "surpriseLikelihood": "VERY_UNLIKELY",
+      "tiltAngle": 3.917225,
+      "underExposedLikelihood": "VERY_UNLIKELY"
+    },
+    {
+      "angerLikelihood": "VERY_UNLIKELY",
+      "blurredLikelihood": "VERY_UNLIKELY",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 184,
+            "y": 99
+          },
+          {
+            "x": 315,
+            "y": 99
+          },
+          {
+            "x": 315,
+            "y": 251
+          },
+          {
+            "x": 184,
+            "y": 251
+          }
+        ]
+      },
+      "detectionConfidence": 0.807721,
+      "fdBoundingPoly": {
+        "vertices": [
+          {
+            "x": 203,
+            "y": 142
+          },
+          {
+            "x": 298,
+            "y": 142
+          },
+          {
+            "x": 298,
+            "y": 237
+          },
+          {
+            "x": 203,
+            "y": 237
+          }
+        ]
+      },
+      "headwearLikelihood": "LIKELY",
+      "joyLikelihood": "UNLIKELY",
+      "landmarkingConfidence": 0.5948864,
+      "landmarks": [
+        {
+          "position": {
+            "x": 229.08276,
+            "y": 172.52742,
+            "z": 0.00017154141
+          },
+          "type": "LEFT_EYE"
+        },
+        {
+          "position": {
+            "x": 268.33304,
+            "y": 169.03166,
+            "z": 1.1454698
+          },
+          "type": "RIGHT_EYE"
+        },
+        {
+          "position": {
+            "x": 215.05498,
+            "y": 164.2944,
+            "z": 2.5893269
+          },
+          "type": "LEFT_OF_LEFT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 239.0267,
+            "y": 163.50107,
+            "z": -8.170038
+          },
+          "type": "RIGHT_OF_LEFT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 258.30157,
+            "y": 161.63506,
+            "z": -7.6200395
+          },
+          "type": "LEFT_OF_RIGHT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 281.36563,
+            "y": 158.05638,
+            "z": 4.4626756
+          },
+          "type": "RIGHT_OF_RIGHT_EYEBROW"
+        },
+        {
+          "position": {
+            "x": 249.5936,
+            "y": 170.95258,
+            "z": -7.720047
+          },
+          "type": "MIDPOINT_BETWEEN_EYES"
+        },
+        {
+          "position": {
+            "x": 252.25284,
+            "y": 194.05339,
+            "z": -17.216074
+          },
+          "type": "NOSE_TIP"
+        },
+        {
+          "position": {
+            "x": 253.07396,
+            "y": 207.56882,
+            "z": -6.774331
+          },
+          "type": "UPPER_LIP"
+        },
+        {
+          "position": {
+            "x": 254.67307,
+            "y": 220.40526,
+            "z": -2.7357047
+          },
+          "type": "LOWER_LIP"
+        },
+        {
+          "position": {
+            "x": 237.19131,
+            "y": 212.68805,
+            "z": 4.1168284
+          },
+          "type": "MOUTH_LEFT"
+        },
+        {
+          "position": {
+            "x": 269.55798,
+            "y": 211.28163,
+            "z": 4.963443
+          },
+          "type": "MOUTH_RIGHT"
+        },
+        {
+          "position": {
+            "x": 254.19148,
+            "y": 213.70999,
+            "z": -3.2406676
+          },
+          "type": "MOUTH_CENTER"
+        },
+        {
+          "position": {
+            "x": 261.75555,
+            "y": 195.97318,
+            "z": -1.68976
+          },
+          "type": "NOSE_BOTTOM_RIGHT"
+        },
+        {
+          "position": {
+            "x": 242.74011,
+            "y": 197.01498,
+            "z": -2.4208264
+          },
+          "type": "NOSE_BOTTOM_LEFT"
+        },
+        {
+          "position": {
+            "x": 252.45657,
+            "y": 199.79184,
+            "z": -7.622545
+          },
+          "type": "NOSE_BOTTOM_CENTER"
+        },
+        {
+          "position": {
+            "x": 229.57349,
+            "y": 170.83575,
+            "z": -2.8411098
+          },
+          "type": "LEFT_EYE_TOP_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 237.46802,
+            "y": 173.13205,
+            "z": 0.48709106
+          },
+          "type": "LEFT_EYE_RIGHT_CORNER"
+        },
+        {
+          "position": {
+            "x": 229.25256,
+            "y": 176.25444,
+            "z": 0.007605737
+          },
+          "type": "LEFT_EYE_BOTTOM_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 221.75346,
+            "y": 173.92528,
+            "z": 3.4724734
+          },
+          "type": "LEFT_EYE_LEFT_CORNER"
+        },
+        {
+          "position": {
+            "x": 229.17702,
+            "y": 173.50412,
+            "z": -0.91868293
+          },
+          "type": "LEFT_EYE_PUPIL"
+        },
+        {
+          "position": {
+            "x": 268.84985,
+            "y": 166.92284,
+            "z": -1.703818
+          },
+          "type": "RIGHT_EYE_TOP_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 277.3937,
+            "y": 168.34386,
+            "z": 5.232091
+          },
+          "type": "RIGHT_EYE_RIGHT_CORNER"
+        },
+        {
+          "position": {
+            "x": 269.41397,
+            "y": 172.61949,
+            "z": 1.1409676
+          },
+          "type": "RIGHT_EYE_BOTTOM_BOUNDARY"
+        },
+        {
+          "position": {
+            "x": 261.07343,
+            "y": 171.25655,
+            "z": 1.1744424
+          },
+          "type": "RIGHT_EYE_LEFT_CORNER"
+        },
+        {
+          "position": {
+            "x": 269.49078,
+            "y": 169.52711,
+            "z": 0.19418016
+          },
+          "type": "RIGHT_EYE_PUPIL"
+        },
+        {
+          "position": {
+            "x": 226.89224,
+            "y": 159.74516,
+            "z": -5.9035163
+          },
+          "type": "LEFT_EYEBROW_UPPER_MIDPOINT"
+        },
+        {
+          "position": {
+            "x": 269.50323,
+            "y": 155.51637,
+            "z": -4.667354
+          },
+          "type": "RIGHT_EYEBROW_UPPER_MIDPOINT"
+        },
+        {
+          "position": {
+            "x": 204.86308,
+            "y": 190.80841,
+            "z": 49.561268
+          },
+          "type": "LEFT_EAR_TRAGION"
+        },
+        {
+          "position": {
+            "x": 294.0153,
+            "y": 181.93068,
+            "z": 52.171837
+          },
+          "type": "RIGHT_EAR_TRAGION"
+        },
+        {
+          "position": {
+            "x": 248.78935,
+            "y": 162.26361,
+            "z": -9.443416
+          },
+          "type": "FOREHEAD_GLABELLA"
+        },
+        {
+          "position": {
+            "x": 255.94336,
+            "y": 238.06561,
+            "z": 4.491406
+          },
+          "type": "CHIN_GNATHION"
+        },
+        {
+          "position": {
+            "x": 212.19034,
+            "y": 216.79533,
+            "z": 35.959183
+          },
+          "type": "CHIN_LEFT_GONION"
+        },
+        {
+          "position": {
+            "x": 292.7218,
+            "y": 208.8179,
+            "z": 38.304188
+          },
+          "type": "CHIN_RIGHT_GONION"
+        }
+      ],
+      "panAngle": 1.6657987,
+      "rollAngle": -5.556886,
+      "sorrowLikelihood": "VERY_UNLIKELY",
+      "surpriseLikelihood": "VERY_UNLIKELY",
+      "tiltAngle": -5.095744,
+      "underExposedLikelihood": "VERY_UNLIKELY"
+    }
+  ],
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 182
+            },
+            {
+              "x": 546
+            },
+            {
+              "x": 546,
+              "y": 454
+            },
+            {
+              "x": 182,
+              "y": 454
+            }
+          ]
+        },
+        "confidence": 0.53125,
+        "importanceFraction": 0.8
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 136
+            },
+            {
+              "x": 591
+            },
+            {
+              "x": 591,
+              "y": 454
+            },
+            {
+              "x": 136,
+              "y": 454
+            }
+          ]
+        },
+        "confidence": 0.53125,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 91
+            },
+            {
+              "x": 637
+            },
+            {
+              "x": 637,
+              "y": 454
+            },
+            {
+              "x": 91,
+              "y": 454
+            }
+          ]
+        },
+        "confidence": 0.4427084,
+        "importanceFraction": 1
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 65,
+            "green": 84,
+            "red": 101
+          },
+          "hex": "655441",
+          "percent": 27.135018387393224,
+          "percentRounded": 27,
+          "pixelFraction": 0.096308835,
+          "rgb": "101, 84,\n 65",
+          "score": 0.10723733
+        },
+        {
+          "color": {
+            "blue": 11,
+            "green": 14,
+            "red": 22
+          },
+          "hex": "160E0B",
+          "percent": 23.4292866385361,
+          "percentRounded": 23,
+          "pixelFraction": 0.13958736,
+          "rgb": "22, 14,\n 11",
+          "score": 0.092592314
+        },
+        {
+          "color": {
+            "blue": 28,
+            "green": 25,
+            "red": 160
+          },
+          "hex": "A0191C",
+          "percent": 16.385148939332424,
+          "percentRounded": 16,
+          "pixelFraction": 0.018939395,
+          "rgb": "160, 25,\n 28",
+          "score": 0.06475395
+        },
+        {
+          "color": {
+            "blue": 211,
+            "green": 236,
+            "red": 243
+          },
+          "hex": "F3ECD3",
+          "percent": 14.3097734105786,
+          "percentRounded": 14,
+          "pixelFraction": 0.051821407,
+          "rgb": "243, 236,\n 211",
+          "score": 0.056552086
+        },
+        {
+          "color": {
+            "blue": 12,
+            "green": 70,
+            "red": 111
+          },
+          "hex": "6F460C",
+          "percent": 6.465635270078295,
+          "percentRounded": 6,
+          "pixelFraction": 0.009993552,
+          "rgb": "111, 70,\n 12",
+          "score": 0.025552128
+        },
+        {
+          "color": {
+            "blue": 26,
+            "green": 23,
+            "red": 101
+          },
+          "hex": "65171A",
+          "percent": 6.134830056972407,
+          "percentRounded": 6,
+          "pixelFraction": 0.013217279,
+          "rgb": "101, 23,\n 26",
+          "score": 0.024244789
+        },
+        {
+          "color": {
+            "blue": 16,
+            "green": 11,
+            "red": 188
+          },
+          "hex": "BC0B10",
+          "percent": 4.867715870316201,
+          "percentRounded": 5,
+          "pixelFraction": 0.003949065,
+          "rgb": "188, 11,\n 16",
+          "score": 0.019237166
+        },
+        {
+          "color": {
+            "blue": 48,
+            "green": 235,
+            "red": 248
+          },
+          "hex": "F8EB30",
+          "percent": 0.48149801642226703,
+          "percentRounded": 0,
+          "pixelFraction": 0.00056415214,
+          "rgb": "248, 235,\n 48",
+          "score": 0.0019028755
+        },
+        {
+          "color": {
+            "blue": 62,
+            "green": 178,
+            "red": 253
+          },
+          "hex": "FDB23E",
+          "percent": 0.4599933837894624,
+          "percentRounded": 0,
+          "pixelFraction": 0.00072533847,
+          "rgb": "253, 178,\n 62",
+          "score": 0.0018178894
+        },
+        {
+          "color": {
+            "blue": 38,
+            "green": 194,
+            "red": 210
+          },
+          "hex": "D2C226",
+          "percent": 0.3311000265810368,
+          "percentRounded": 0,
+          "pixelFraction": 0.000483559,
+          "rgb": "210, 194,\n 38",
+          "score": 0.0013085041
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Marriage",
+      "mid": "/m/04ztj",
+      "score": 0.868499,
+      "topicality": 0.868499
+    },
+    {
+      "description": "Tradition",
+      "mid": "/m/07djv",
+      "score": 0.86623734,
+      "topicality": 0.86623734
+    },
+    {
+      "description": "Event",
+      "mid": "/m/081pkj",
+      "score": 0.83087623,
+      "topicality": 0.83087623
+    },
+    {
+      "description": "Ceremony",
+      "mid": "/m/016c4t",
+      "score": 0.7899893,
+      "topicality": 0.7899893
+    },
+    {
+      "description": "Temple",
+      "mid": "/m/08g_yr",
+      "score": 0.6371843,
+      "topicality": 0.6371843
+    },
+    {
+      "description": "Lei",
+      "mid": "/m/033jq2",
+      "score": 0.61645055,
+      "topicality": 0.61645055
+    },
+    {
+      "description": "Fashion accessory",
+      "mid": "/m/0463sg",
+      "score": 0.577368,
+      "topicality": 0.577368
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.086821884,
+            "y": 0.15576549
+          },
+          {
+            "x": 0.5109814,
+            "y": 0.15576549
+          },
+          {
+            "x": 0.5109814,
+            "y": 0.9973958
+          },
+          {
+            "x": 0.086821884,
+            "y": 0.9973958
+          }
+        ]
+      },
+      "mid": "/m/03bt1vf",
+      "name": "Woman",
+      "score": 0.9153902
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.46154293,
+            "y": 0.027818108
+          },
+          {
+            "x": 0.91596603,
+            "y": 0.027818108
+          },
+          {
+            "x": 0.91596603,
+            "y": 0.9895671
+          },
+          {
+            "x": 0.46154293,
+            "y": 0.9895671
+          }
+        ]
+      },
+      "mid": "/m/04yx4",
+      "name": "Man",
+      "score": 0.8666319
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.57506496,
+            "y": 0.012277785
+          },
+          {
+            "x": 0.7450723,
+            "y": 0.012277785
+          },
+          {
+            "x": 0.7450723,
+            "y": 0.2341481
+          },
+          {
+            "x": 0.57506496,
+            "y": 0.2341481
+          }
+        ]
+      },
+      "mid": "/m/02dl1y",
+      "name": "Hat",
+      "score": 0.7572041
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.464499,
+            "y": 0.39396718
+          },
+          {
+            "x": 0.90348434,
+            "y": 0.39396718
+          },
+          {
+            "x": 0.90348434,
+            "y": 0.9845724
+          },
+          {
+            "x": 0.464499,
+            "y": 0.9845724
+          }
+        ]
+      },
+      "mid": "/m/09j2d",
+      "name": "Clothing",
+      "score": 0.65607584
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.0077649863,
+            "y": 0.5291571
+          },
+          {
+            "x": 0.14488271,
+            "y": 0.5291571
+          },
+          {
+            "x": 0.14488271,
+            "y": 0.993614
+          },
+          {
+            "x": 0.0077649863,
+            "y": 0.993614
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.6481938
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.4454632,
+            "y": 0.3845137
+          },
+          {
+            "x": 0.8987836,
+            "y": 0.3845137
+          },
+          {
+            "x": 0.8987836,
+            "y": 0.9898577
+          },
+          {
+            "x": 0.4454632,
+            "y": 0.9898577
+          }
+        ]
+      },
+      "mid": "/m/047vlmn",
+      "name": "Outerwear",
+      "score": 0.60916907
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "webDetection": {
+    "bestGuessLabels": [
+      {
+        "label": "rajesh hamal wife",
+        "languageCode": "en"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+      },
+      {
+        "url": "https://www.imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal Marriage</b>, Wife, married, wedding, honeymoon, family ...",
+        "url": "https://articlebio.com/rajesh-hamal-marriage-wife"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal</b> Bio || Suoerstar of Nepal with his <b>wedding</b>, age ...",
+        "url": "https://articlebio.com/rajesh-hamal"
+      },
+      {
+        "pageTitle": "<b>Rajesh Hamal</b> Biography, Net Worth And <b>Marriage</b> - Celeb Hubs",
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/celebhubs.com/wp-content/uploads/2018/09/Rajesh-couple.png?resize=482%2C266&ssl=1"
+          }
+        ],
+        "url": "https://celebhubs.com/actor/top-celebrity-in-nepal"
+      },
+      {
+        "pageTitle": "<b>Rajesh Hamal Married</b> to Madhu Bhattarai | Rajesh Hamal",
+        "partialMatchingImages": [
+          {
+            "url": "https://rajeshhamal.com.np/wp-content/uploads/2018/08/Rajesh-Hamal-Married-to-Madhu-Bhattarai.jpg"
+          }
+        ],
+        "url": "https://rajeshhamal.com.np/rajesh-hamal-married-to-madhu-bhattarai/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://whomarriedwho.com/wp-content/uploads/2017/12/Rajesh-Hamal-with-Wife-Madhu-Bhattarai.jpg"
+          }
+        ],
+        "pageTitle": "Who is <b>Rajesh Hamal Married</b> To? <b>Rajesh Hamal Wife</b>, Girlfriend!",
+        "url": "https://whomarriedwho.com/celebrity/rajesh-hamal/"
+      },
+      {
+        "pageTitle": "Superstar Rajesh Hamal Got Married With Madhu ... - Allnepalwiki",
+        "partialMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "http://allnepalwiki.blogspot.com/2014/05/superstar-rajesh-hamal-got-married-with.html"
+      },
+      {
+        "pageTitle": "<b>Rajesh Hamal</b> Jokes!!! – Sanduk Media",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/sandukmedia.com/wp-content/uploads/2019/01/img_3455.jpg?resize=688%2C561&ssl=1"
+          }
+        ],
+        "url": "https://sandukmedia.com/2019/592/entertainment/rajesh-hamal-jokes/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "http://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal</b> Quotes,Hamal.Quotes Of The Day - PIAPP",
+        "url": "http://piapp.co/quotes/rajesh-hamal-quotes.php"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://www.imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+          }
+        ],
+        "pageTitle": "Nepali Actor - Things to Know About Nepalese Superstar <b>Rajesh</b> ...",
+        "url": "https://www.imnepal.com/nepali-male-actor-rajesh-hamal/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "http://imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+          }
+        ],
+        "pageTitle": "Images of Nepali Actor <b>Rajesh Hamal Married</b> - industrious.info",
+        "url": "https://industrious.info/24/01769-nepali-actor-rajesh-hamal-married.html"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://www.imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+          }
+        ],
+        "pageTitle": "<b>Wife</b> of 20 Famous Nepali Actors - ImNepal.com",
+        "url": "https://www.imnepal.com/nepali-actors-wife/"
+      },
+      {
+        "pageTitle": "<b>Rajesh Hamal</b> S <b>Wife</b> – Wonderful Image Gallery - Images Gallery Site",
+        "partialMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "https://sosyalforum.org/rajesh-hamal-s-wife"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "http://imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+          }
+        ],
+        "pageTitle": "Pictures of Nepali Actor <b>Rajesh Hamal Married</b> - stargate-rasa.info",
+        "url": "http://stargate-rasa.info/60/03606-nepali-actor-rajesh-hamal-married.html"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "http://www.imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal</b> Brother – Wonderful Gallery - Images Gallery Site",
+        "url": "https://sosyalforum.org/rajesh-hamal-brother"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal Marriage</b> Related Keywords &amp; Suggestions - Rajesh ...",
+        "url": "http://www.keywordbasket.com/cmFqZXNoIGhhbWFsIG1hcnJpYWdl/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal</b> Girlfriend | freesongs4u",
+        "url": "http://freesongs4u.info/ch/Rajesh-Hamal-Girlfriend.chan"
+      },
+      {
+        "pageTitle": "<b>Rajesh Hamal Marriage</b> - shvpl.info",
+        "partialMatchingImages": [
+          {
+            "url": "https://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "https://www.shvpl.info/imagergkl-rajesh-hamal-marriage.htm"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh</b> Ceromony <b>Hamal</b> Weddingsecond Related Keywords ...",
+        "url": "http://www.keywordbasket.com/cmFqZXNoIGNlcm9tb255IGhhbWFsIHdlZGRpbmdzZWNvbmQ/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "Madhu bhattarai <b>rajesh hamal</b> 7337803 - neutralizeall.info",
+        "url": "http://neutralizeall.info/23/7110908-madhu-bhattarai-rajesh-hamal.html"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://www.imnepal.com/wp-content/uploads/2017/11/Nepali-Actor-Superstar-Rajesh-Hamal-with-Wife-Madhu-Bhattrai.jpg"
+          }
+        ],
+        "pageTitle": "<b>Rajesh Hamal</b> Planning To Head To - Buscador de Imágenes",
+        "url": "https://buscarfoto.com/rajesh-hamal-planning-to-head-to/8199426653522932429"
+      },
+      {
+        "pageTitle": "Purbeli joks - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=734481353241542"
+          }
+        ],
+        "url": "https://www.facebook.com/Purbeli-joks-557299297758532/"
+      },
+      {
+        "pageTitle": "Hotel Purbeli Sewaro - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=734481353241542"
+          }
+        ],
+        "url": "https://www.facebook.com/Hotelmakeanpur"
+      },
+      {
+        "pageTitle": "कोही २२, कोही २४ : उमेरको अन्तर हुने नेपाली ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "http://www.nagariktimes.com/2016/12/12206/"
+      },
+      {
+        "pageTitle": "यी हुन् कोही २२, कोही २४ : उमेरको अन्तर धेरै हुने ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "http://www.newsabhiyan.com.np/news-details.php?nid=56351"
+      },
+      {
+        "pageTitle": "Namaste Belbari - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=734481353241542"
+          }
+        ],
+        "url": "https://www.facebook.com/Namaste-Belbari-1453960288179926/"
+      },
+      {
+        "pageTitle": "रेडियो कार्यक्रम Antakxyari - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=734481353241542"
+          }
+        ],
+        "url": "https://www.facebook.com/%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE-Antakxyari-307058289443314/"
+      },
+      {
+        "pageTitle": "यी हुन् उमेरको अन्तर धेरै भएका नेपाली सेलिब्रेटी ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "http://archive.ujyaaloonline.com/news/68399/nepali-artist-married-/"
+      },
+      {
+        "pageTitle": "फ्यानको बारम्बार उही प्रश्न: राजेश दाइ, बुवा ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/07/Rajesh-Hamal-Married-to-Madhu-Bhattarai.jpg"
+          }
+        ],
+        "url": "https://www.khabarhub.com/2019/14/48488/"
+      },
+      {
+        "pageTitle": "फ्यानको बारम्बार उही प्रश्न: राजेश दाइ, बुवा ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/07/Rajesh-Hamal-Married-to-Madhu-Bhattarai.jpg"
+          }
+        ],
+        "url": "https://new.khabarhub.com/2019/14/48488/"
+      },
+      {
+        "pageTitle": "यी हुन् उमेरको अन्तर धेरै भएका ... - Nepali taja samachar",
+        "partialMatchingImages": [
+          {
+            "url": "https://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+          }
+        ],
+        "url": "http://nptajasamachar.blogspot.com/2017/01/blog-post_251.html"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://www.suryakhabar.com/wp-content/uploads/2018/04/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "बाबुको उमेरको पुरुषलाई श्रीमान्का रुपमा ...",
+        "url": "https://www.suryakhabar.com/2018/04/46307/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://www.977mag.com/wp-content/uploads/bfi_thumb/news-nbxpfnovpa35unvy2d4za3rrve97yq29799l0mgx5e.jpg"
+          },
+          {
+            "url": "http://www.977mag.com/wp-content/uploads/2017/07/news.jpg"
+          },
+          {
+            "url": "http://www.977mag.com/wp-content/uploads/2017/07/rajesh-hamal-marriage-wife.jpg"
+          }
+        ],
+        "pageTitle": "मिथिला देखि राजेशसम्म सिने नगरिका चर्चित मुहार ...",
+        "url": "https://www.977mag.com/news/6771/"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "http://www.977mag.com/wp-content/uploads/2017/07/news.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/sandukmedia.com/wp-content/uploads/2019/01/img_3455.jpg?resize=688%2C561&ssl=1"
+      },
+      {
+        "url": "https://rajeshhamal.com.np/wp-content/uploads/2018/08/Rajesh-Hamal-Married-to-Madhu-Bhattarai.jpg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-nWtt8bfX0a0/U4DWuVRwsGI/AAAAAAAACrE/AbQkHXJqwUw/s1600/rajesh+hamal+marriage.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=734481353241542"
+      },
+      {
+        "url": "https://i2.wp.com/celebhubs.com/wp-content/uploads/2018/09/Rajesh-couple.png?resize=482%2C266&ssl=1"
+      },
+      {
+        "url": "https://www.977mag.com/wp-content/uploads/bfi_thumb/news-nbxpfnovpa35unvy2d4za3rrve97yq29799l0mgx5e.jpg"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://i1.wp.com/articlebio.com/uploads/news/2017/02/15/rajesh-hamal-marriage-wife.jpg"
+      },
+      {
+        "url": "https://nepaliheadlines.com/wp-content/uploads/2014/05/rajesh_hamal_wedding_tag.jpg"
+      },
+      {
+        "url": "https://glamournepal.com/wp-content/uploads/2014/05/rajesh-hamal-madhu-bhattarai-wedding-photo5.jpg"
+      },
+      {
+        "url": "https://internetkhabar.com/wp-content/uploads/2016/05/rajesh-hamal-and-madhu-bhattarai-after-marriage-similing-couple.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jCrtu9Bqmrc/hqdefault.jpg"
+      },
+      {
+        "url": "https://glamournepal.com/wp-content/uploads/2014/05/rajesh-hamal-madhu-bhattarai-wedding-photo13.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NNcnArLttbM/maxresdefault.jpg"
+      },
+      {
+        "url": "https://glamournepal.com/wp-content/uploads/2014/05/rajesh-hamal-madhu-bhattarai-wedding-photo14.jpg"
+      },
+      {
+        "url": "https://2.bp.blogspot.com/-9yrHJ4VxoL4/Vzme2rxbuSI/AAAAAAAAADk/iY6pfJVfgx029kuEocvQtgrclH9I_vFLwCLcB/s1600/rajesh-hamal.jpg"
+      }
+    ],
+    "webEntities": [
+      {
+        "description": "Madhu Bhattarai",
+        "entityId": "/m/010wt1t3",
+        "score": 10.7985
+      },
+      {
+        "description": "Rajesh Hamal",
+        "entityId": "/m/0gb6d9",
+        "score": 1.485
+      },
+      {
+        "description": "Nepal",
+        "entityId": "/m/016zwt",
+        "score": 0.8484
+      },
+      {
+        "description": "Actor",
+        "entityId": "/m/02hrh1q",
+        "score": 0.704
+      },
+      {
+        "entityId": "/t/278zkcv8qt287",
+        "score": 0.5835
+      },
+      {
+        "description": "Wife",
+        "entityId": "/m/025rz_f",
+        "score": 0.4356
+      },
+      {
+        "entityId": "/g/11gxpxt_qs",
+        "score": 0.4318
+      },
+      {
+        "description": "Girlfriend",
+        "entityId": "/m/08gj26",
+        "score": 0.4111
+      },
+      {
+        "description": "Nepalis",
+        "entityId": "/g/11c4b6l894",
+        "score": 0.3892
+      },
+      {
+        "description": "Wedding",
+        "entityId": "/m/081hv",
+        "score": 0.3879
+      },
+      {
+        "description": "Image",
+        "entityId": "/m/0jg24",
+        "score": 0.3746
+      },
+      {
+        "description": "Madhu Bhattarai",
+        "entityId": "/g/11fhstwcq1",
+        "score": 0.07924499
+      },
+      {
+        "description": "Rajesh",
+        "entityId": "/m/0dm_d1",
+        "score": 0.047235
+      }
+    ]
+  }
+},
+
+"2":{
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 288
+            },
+            {
+              "x": 800
+            },
+            {
+              "x": 800,
+              "y": 639
+            },
+            {
+              "x": 288,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.4375,
+        "importanceFraction": 0.6826667
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 144
+            },
+            {
+              "x": 784
+            },
+            {
+              "x": 784,
+              "y": 639
+            },
+            {
+              "x": 144,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.43749997,
+        "importanceFraction": 0.8533334
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 95
+            },
+            {
+              "x": 864
+            },
+            {
+              "x": 864,
+              "y": 639
+            },
+            {
+              "x": 95,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.42382813,
+        "importanceFraction": 0.9919999
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "blocks": [
+          {
+            "blockType": "TEXT",
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 816,
+                  "y": 553
+                },
+                {
+                  "x": 937,
+                  "y": 557
+                },
+                {
+                  "x": 936,
+                  "y": 598
+                },
+                {
+                  "x": 815,
+                  "y": 594
+                }
+              ]
+            },
+            "confidence": 0.87,
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 816,
+                      "y": 553
+                    },
+                    {
+                      "x": 937,
+                      "y": 557
+                    },
+                    {
+                      "x": 936,
+                      "y": 598
+                    },
+                    {
+                      "x": 815,
+                      "y": 594
+                    }
+                  ]
+                },
+                "confidence": 0.87,
+                "words": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 820,
+                          "y": 553
+                        },
+                        {
+                          "x": 858,
+                          "y": 554
+                        },
+                        {
+                          "x": 857,
+                          "y": 576
+                        },
+                        {
+                          "x": 819,
+                          "y": 575
+                        }
+                      ]
+                    },
+                    "confidence": 0.92,
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "jv"
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 820,
+                              "y": 553
+                            },
+                            {
+                              "x": 827,
+                              "y": 553
+                            },
+                            {
+                              "x": 826,
+                              "y": 574
+                            },
+                            {
+                              "x": 819,
+                              "y": 574
+                            }
+                          ]
+                        },
+                        "confidence": 0.75,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "K"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 830,
+                              "y": 554
+                            },
+                            {
+                              "x": 836,
+                              "y": 554
+                            },
+                            {
+                              "x": 835,
+                              "y": 575
+                            },
+                            {
+                              "x": 829,
+                              "y": 575
+                            }
+                          ]
+                        },
+                        "confidence": 0.97,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "u"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 837,
+                              "y": 554
+                            },
+                            {
+                              "x": 842,
+                              "y": 554
+                            },
+                            {
+                              "x": 841,
+                              "y": 575
+                            },
+                            {
+                              "x": 836,
+                              "y": 575
+                            }
+                          ]
+                        },
+                        "confidence": 0.98,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "l"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 843,
+                              "y": 554
+                            },
+                            {
+                              "x": 848,
+                              "y": 554
+                            },
+                            {
+                              "x": 847,
+                              "y": 575
+                            },
+                            {
+                              "x": 842,
+                              "y": 575
+                            }
+                          ]
+                        },
+                        "confidence": 0.95,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "d"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 851,
+                              "y": 554
+                            },
+                            {
+                              "x": 855,
+                              "y": 554
+                            },
+                            {
+                              "x": 854,
+                              "y": 575
+                            },
+                            {
+                              "x": 850,
+                              "y": 575
+                            }
+                          ]
+                        },
+                        "confidence": 0.94,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "i"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 855,
+                              "y": 554
+                            },
+                            {
+                              "x": 858,
+                              "y": 554
+                            },
+                            {
+                              "x": 857,
+                              "y": 575
+                            },
+                            {
+                              "x": 854,
+                              "y": 575
+                            }
+                          ]
+                        },
+                        "confidence": 0.98,
+                        "property": {
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          },
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "p"
+                      }
+                    ]
+                  },
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 868,
+                          "y": 555
+                        },
+                        {
+                          "x": 934,
+                          "y": 557
+                        },
+                        {
+                          "x": 933,
+                          "y": 578
+                        },
+                        {
+                          "x": 867,
+                          "y": 576
+                        }
+                      ]
+                    },
+                    "confidence": 0.83,
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "jv"
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 868,
+                              "y": 555
+                            },
+                            {
+                              "x": 878,
+                              "y": 555
+                            },
+                            {
+                              "x": 877,
+                              "y": 576
+                            },
+                            {
+                              "x": 867,
+                              "y": 576
+                            }
+                          ]
+                        },
+                        "confidence": 0.43,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "n"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 882,
+                              "y": 555
+                            },
+                            {
+                              "x": 889,
+                              "y": 555
+                            },
+                            {
+                              "x": 888,
+                              "y": 576
+                            },
+                            {
+                              "x": 881,
+                              "y": 576
+                            }
+                          ]
+                        },
+                        "confidence": 0.95,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "g"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 889,
+                              "y": 556
+                            },
+                            {
+                              "x": 895,
+                              "y": 556
+                            },
+                            {
+                              "x": 894,
+                              "y": 577
+                            },
+                            {
+                              "x": 888,
+                              "y": 577
+                            }
+                          ]
+                        },
+                        "confidence": 0.91,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "a"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 898,
+                              "y": 556
+                            },
+                            {
+                              "x": 903,
+                              "y": 556
+                            },
+                            {
+                              "x": 902,
+                              "y": 577
+                            },
+                            {
+                              "x": 897,
+                              "y": 577
+                            }
+                          ]
+                        },
+                        "confidence": 0.85,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "u"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 904,
+                              "y": 556
+                            },
+                            {
+                              "x": 911,
+                              "y": 556
+                            },
+                            {
+                              "x": 910,
+                              "y": 577
+                            },
+                            {
+                              "x": 903,
+                              "y": 577
+                            }
+                          ]
+                        },
+                        "confidence": 0.67,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "p"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 916,
+                              "y": 557
+                            },
+                            {
+                              "x": 922,
+                              "y": 557
+                            },
+                            {
+                              "x": 921,
+                              "y": 578
+                            },
+                            {
+                              "x": 915,
+                              "y": 578
+                            }
+                          ]
+                        },
+                        "confidence": 0.9,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "a"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 923,
+                              "y": 557
+                            },
+                            {
+                              "x": 928,
+                              "y": 557
+                            },
+                            {
+                              "x": 927,
+                              "y": 578
+                            },
+                            {
+                              "x": 922,
+                              "y": 578
+                            }
+                          ]
+                        },
+                        "confidence": 0.94,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "n"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 930,
+                              "y": 557
+                            },
+                            {
+                              "x": 934,
+                              "y": 557
+                            },
+                            {
+                              "x": 933,
+                              "y": 578
+                            },
+                            {
+                              "x": 929,
+                              "y": 578
+                            }
+                          ]
+                        },
+                        "confidence": 0.99,
+                        "property": {
+                          "detectedBreak": {
+                            "type": "EOL_SURE_SPACE"
+                          },
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "jv"
+                            }
+                          ]
+                        },
+                        "text": "e"
+                      }
+                    ]
+                  },
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 815,
+                          "y": 573
+                        },
+                        {
+                          "x": 936,
+                          "y": 573
+                        },
+                        {
+                          "x": 936,
+                          "y": 594
+                        },
+                        {
+                          "x": 815,
+                          "y": 594
+                        }
+                      ]
+                    },
+                    "confidence": 0.87,
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 815,
+                              "y": 573
+                            },
+                            {
+                              "x": 823,
+                              "y": 573
+                            },
+                            {
+                              "x": 823,
+                              "y": 594
+                            },
+                            {
+                              "x": 815,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 1,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "P"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 826,
+                              "y": 573
+                            },
+                            {
+                              "x": 834,
+                              "y": 573
+                            },
+                            {
+                              "x": 834,
+                              "y": 594
+                            },
+                            {
+                              "x": 826,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 0.58,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "H"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 837,
+                              "y": 573
+                            },
+                            {
+                              "x": 846,
+                              "y": 573
+                            },
+                            {
+                              "x": 846,
+                              "y": 594
+                            },
+                            {
+                              "x": 837,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 0.99,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "O"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 850,
+                              "y": 573
+                            },
+                            {
+                              "x": 858,
+                              "y": 573
+                            },
+                            {
+                              "x": 858,
+                              "y": 594
+                            },
+                            {
+                              "x": 850,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 0.32,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "T"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 859,
+                              "y": 573
+                            },
+                            {
+                              "x": 867,
+                              "y": 573
+                            },
+                            {
+                              "x": 867,
+                              "y": 594
+                            },
+                            {
+                              "x": 859,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 1,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "O"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 872,
+                              "y": 573
+                            },
+                            {
+                              "x": 880,
+                              "y": 573
+                            },
+                            {
+                              "x": 880,
+                              "y": 594
+                            },
+                            {
+                              "x": 872,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 0.78,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "G"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 881,
+                              "y": 573
+                            },
+                            {
+                              "x": 889,
+                              "y": 573
+                            },
+                            {
+                              "x": 889,
+                              "y": 594
+                            },
+                            {
+                              "x": 881,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 1,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "R"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 894,
+                              "y": 573
+                            },
+                            {
+                              "x": 903,
+                              "y": 573
+                            },
+                            {
+                              "x": 903,
+                              "y": 594
+                            },
+                            {
+                              "x": 894,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 1,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "A"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 906,
+                              "y": 573
+                            },
+                            {
+                              "x": 913,
+                              "y": 573
+                            },
+                            {
+                              "x": 913,
+                              "y": 594
+                            },
+                            {
+                              "x": 906,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 0.99,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "P"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 914,
+                              "y": 573
+                            },
+                            {
+                              "x": 922,
+                              "y": 573
+                            },
+                            {
+                              "x": 922,
+                              "y": 594
+                            },
+                            {
+                              "x": 914,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 1,
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "H"
+                      },
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 926,
+                              "y": 573
+                            },
+                            {
+                              "x": 936,
+                              "y": 573
+                            },
+                            {
+                              "x": 936,
+                              "y": 594
+                            },
+                            {
+                              "x": 926,
+                              "y": 594
+                            }
+                          ]
+                        },
+                        "confidence": 0.99,
+                        "property": {
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          },
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "text": "Y"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "height": 640,
+        "property": {
+          "detectedLanguages": [
+            {
+              "confidence": 0.56,
+              "languageCode": "jv"
+            },
+            {
+              "confidence": 0.44,
+              "languageCode": "en"
+            }
+          ]
+        },
+        "width": 960
+      }
+    ],
+    "text": "Kuldip ngaupane\nPHOTOGRAPHY\n"
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 288
+            },
+            {
+              "x": 800
+            },
+            {
+              "x": 800,
+              "y": 639
+            },
+            {
+              "x": 288,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.4375,
+        "importanceFraction": 0.6826667
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 144
+            },
+            {
+              "x": 784
+            },
+            {
+              "x": 784,
+              "y": 639
+            },
+            {
+              "x": 144,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.43749997,
+        "importanceFraction": 0.8533334
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 95
+            },
+            {
+              "x": 864
+            },
+            {
+              "x": 864,
+              "y": 639
+            },
+            {
+              "x": 95,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.42382813,
+        "importanceFraction": 0.9919999
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 96,
+            "green": 12,
+            "red": 6
+          },
+          "hex": "060C60",
+          "percent": 48.12887438985467,
+          "percentRounded": 48,
+          "pixelFraction": 0.06401856,
+          "rgb": "6, 12,\n 96",
+          "score": 0.30444828
+        },
+        {
+          "color": {
+            "blue": 68,
+            "green": 15,
+            "red": 10
+          },
+          "hex": "0A0F44",
+          "percent": 18.21886031409893,
+          "percentRounded": 18,
+          "pixelFraction": 0.10906361,
+          "rgb": "10, 15,\n 68",
+          "score": 0.11524684
+        },
+        {
+          "color": {
+            "blue": 75,
+            "green": 39,
+            "red": 70
+          },
+          "hex": "46274B",
+          "percent": 6.662553528271793,
+          "percentRounded": 7,
+          "pixelFraction": 0.009691509,
+          "rgb": "70, 39,\n 75",
+          "score": 0.04214524
+        },
+        {
+          "color": {
+            "blue": 61,
+            "green": 127,
+            "red": 224
+          },
+          "hex": "E07F3D",
+          "percent": 1.9771477011642062,
+          "percentRounded": 2,
+          "pixelFraction": 0.0038902538,
+          "rgb": "224, 127,\n 61",
+          "score": 0.012506821
+        },
+        {
+          "color": {
+            "blue": 33,
+            "green": 66,
+            "red": 153
+          },
+          "hex": "994221",
+          "percent": 1.7899018463643932,
+          "percentRounded": 2,
+          "pixelFraction": 0.0016380016,
+          "rgb": "153, 66,\n 33",
+          "score": 0.011322362
+        },
+        {
+          "color": {
+            "blue": 98,
+            "green": 147,
+            "red": 202
+          },
+          "hex": "CA9362",
+          "percent": 1.2956304529788225,
+          "percentRounded": 1,
+          "pixelFraction": 0.0025252525,
+          "rgb": "202, 147,\n 98",
+          "score": 0.008195755
+        },
+        {
+          "color": {
+            "blue": 140,
+            "green": 125,
+            "red": 59
+          },
+          "hex": "3B7D8C",
+          "percent": 0.17063873043712732,
+          "percentRounded": 0,
+          "pixelFraction": 0.00047775047,
+          "rgb": "59, 125,\n 140",
+          "score": 0.0010794075
+        },
+        {
+          "color": {
+            "blue": 114,
+            "green": 27,
+            "red": 35
+          },
+          "hex": "231B72",
+          "percent": 9.79565993553905,
+          "percentRounded": 10,
+          "pixelFraction": 0.01085176,
+          "rgb": "35, 27,\n 114",
+          "score": 0.061964296
+        },
+        {
+          "color": {
+            "blue": 109,
+            "green": 38,
+            "red": 61
+          },
+          "hex": "3D266D",
+          "percent": 6.363570592142466,
+          "percentRounded": 6,
+          "pixelFraction": 0.009077259,
+          "rgb": "61, 38,\n 109",
+          "score": 0.040253967
+        },
+        {
+          "color": {
+            "blue": 83,
+            "green": 14,
+            "red": 16
+          },
+          "hex": "100E53",
+          "percent": 5.597162509148519,
+          "percentRounded": 6,
+          "pixelFraction": 0.014127764,
+          "rgb": "16, 14,\n 83",
+          "score": 0.035405908
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Cityscape",
+      "mid": "/m/034z7h",
+      "score": 0.98467594,
+      "topicality": 0.98467594
+    },
+    {
+      "description": "Metropolitan area",
+      "mid": "/m/0j_s4",
+      "score": 0.98124576,
+      "topicality": 0.98124576
+    },
+    {
+      "description": "Urban area",
+      "mid": "/m/039jbq",
+      "score": 0.9730474,
+      "topicality": 0.9730474
+    },
+    {
+      "description": "City",
+      "mid": "/m/01n32",
+      "score": 0.9717166,
+      "topicality": 0.9717166
+    },
+    {
+      "description": "Night",
+      "mid": "/m/01d74z",
+      "score": 0.9710718,
+      "topicality": 0.9710718
+    },
+    {
+      "description": "Sky",
+      "mid": "/m/01bqvp",
+      "score": 0.96381176,
+      "topicality": 0.96381176
+    },
+    {
+      "description": "Metropolis",
+      "mid": "/m/056mk",
+      "score": 0.9524899,
+      "topicality": 0.9524899
+    },
+    {
+      "description": "Human settlement",
+      "mid": "/m/0fpdgl",
+      "score": 0.9131875,
+      "topicality": 0.9131875
+    },
+    {
+      "description": "Landmark",
+      "mid": "/m/05_5t0l",
+      "score": 0.891357,
+      "topicality": 0.891357
+    },
+    {
+      "description": "Light",
+      "mid": "/m/04k84",
+      "score": 0.8834761,
+      "topicality": 0.8834761
+    },
+    {
+      "description": "Town",
+      "mid": "/m/0dx1j",
+      "score": 0.8759022,
+      "topicality": 0.8759022
+    },
+    {
+      "description": "Aerial photography",
+      "mid": "/m/01w5c_",
+      "score": 0.8663329,
+      "topicality": 0.8663329
+    },
+    {
+      "description": "Horizon",
+      "mid": "/m/0d1n2",
+      "score": 0.8586837,
+      "topicality": 0.8586837
+    },
+    {
+      "description": "Skyline",
+      "mid": "/m/0204fg",
+      "score": 0.8571066,
+      "topicality": 0.8571066
+    },
+    {
+      "description": "Downtown",
+      "mid": "/m/01l7t2",
+      "score": 0.83158326,
+      "topicality": 0.83158326
+    },
+    {
+      "description": "Lighting",
+      "mid": "/m/019sc6",
+      "score": 0.8125438,
+      "topicality": 0.8125438
+    },
+    {
+      "description": "Evening",
+      "mid": "/m/04mx32",
+      "score": 0.7922929,
+      "topicality": 0.7922929
+    },
+    {
+      "description": "Dusk",
+      "mid": "/m/01b3l7",
+      "score": 0.74097615,
+      "topicality": 0.74097615
+    },
+    {
+      "description": "Architecture",
+      "mid": "/m/03nfmq",
+      "score": 0.7263346,
+      "topicality": 0.7263346
+    },
+    {
+      "description": "Photography",
+      "mid": "/m/05wkw",
+      "score": 0.72451985,
+      "topicality": 0.72451985
+    },
+    {
+      "description": "Landscape",
+      "mid": "/m/025s3q0",
+      "score": 0.68081766,
+      "topicality": 0.68081766
+    },
+    {
+      "description": "Bird's-eye view",
+      "mid": "/m/08863x",
+      "score": 0.6788433,
+      "topicality": 0.6788433
+    },
+    {
+      "description": "Real estate",
+      "mid": "/m/023907r",
+      "score": 0.6722732,
+      "topicality": 0.6722732
+    },
+    {
+      "description": "Cloud",
+      "mid": "/m/0csby",
+      "score": 0.6644816,
+      "topicality": 0.6644816
+    },
+    {
+      "description": "Tower block",
+      "mid": "/m/0vlys",
+      "score": 0.6271876,
+      "topicality": 0.6271876
+    },
+    {
+      "description": "Roof",
+      "mid": "/m/06hyd",
+      "score": 0.58596784,
+      "topicality": 0.58596784
+    },
+    {
+      "description": "Skyscraper",
+      "mid": "/m/079cl",
+      "score": 0.57900137,
+      "topicality": 0.57900137
+    },
+    {
+      "description": "Panorama",
+      "mid": "/m/017rtb",
+      "score": 0.570046,
+      "topicality": 0.570046
+    },
+    {
+      "description": "Building",
+      "mid": "/m/0cgh4",
+      "score": 0.56988376,
+      "topicality": 0.56988376
+    },
+    {
+      "description": "Tourism",
+      "mid": "/m/07bxq",
+      "score": 0.56889546,
+      "topicality": 0.56889546
+    },
+    {
+      "description": "Midnight",
+      "mid": "/m/01kv7h",
+      "score": 0.5674512,
+      "topicality": 0.5674512
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.0023525625,
+            "y": 0.68031937
+          },
+          {
+            "x": 0.21781111,
+            "y": 0.68031937
+          },
+          {
+            "x": 0.21781111,
+            "y": 0.9311486
+          },
+          {
+            "x": 0.0023525625,
+            "y": 0.9311486
+          }
+        ]
+      },
+      "mid": "/m/0cgh4",
+      "name": "Building",
+      "score": 0.7168366
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.74956614,
+            "y": 0.63389754
+          },
+          {
+            "x": 0.9919924,
+            "y": 0.63389754
+          },
+          {
+            "x": 0.9919924,
+            "y": 0.90530497
+          },
+          {
+            "x": 0.74956614,
+            "y": 0.90530497
+          }
+        ]
+      },
+      "mid": "/m/0cgh4",
+      "name": "Building",
+      "score": 0.58980095
+    }
+  ],
+  "logoAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 807,
+            "y": 545
+          },
+          {
+            "x": 947,
+            "y": 545
+          },
+          {
+            "x": 947,
+            "y": 596
+          },
+          {
+            "x": 807,
+            "y": 596
+          }
+        ]
+      },
+      "description": "Ulla Popken",
+      "mid": "/m/0fq0jgf",
+      "score": 0.58792794
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "textAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 815,
+            "y": 553
+          },
+          {
+            "x": 936,
+            "y": 553
+          },
+          {
+            "x": 936,
+            "y": 594
+          },
+          {
+            "x": 815,
+            "y": 594
+          }
+        ]
+      },
+      "description": "Kuldip ngaupane\nPHOTOGRAPHY\n",
+      "locale": "jv"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 820,
+            "y": 553
+          },
+          {
+            "x": 858,
+            "y": 554
+          },
+          {
+            "x": 857,
+            "y": 576
+          },
+          {
+            "x": 819,
+            "y": 575
+          }
+        ]
+      },
+      "description": "Kuldip"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 868,
+            "y": 555
+          },
+          {
+            "x": 934,
+            "y": 557
+          },
+          {
+            "x": 933,
+            "y": 578
+          },
+          {
+            "x": 867,
+            "y": 576
+          }
+        ]
+      },
+      "description": "ngaupane"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 815,
+            "y": 573
+          },
+          {
+            "x": 936,
+            "y": 573
+          },
+          {
+            "x": 936,
+            "y": 594
+          },
+          {
+            "x": 815,
+            "y": 594
+          }
+        ]
+      },
+      "description": "PHOTOGRAPHY"
+    }
+  ],
+  "webDetection": {
+    "bestGuessLabels": [
+      {
+        "label": "cityscape"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Reviews | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/reviews/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - About | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/about/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Posts | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/posts"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Photos | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/photos/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/posts/d41d8cd9/1862719494000684/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Community | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/community/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Home | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Events | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/events/?ref=page_internal"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Community | Facebook",
+        "url": "https://www.facebook.com/ghorahismc/likes"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - 投稿 | Facebook",
+        "url": "https://ja-jp.facebook.com/pages/category/Public---Government-Service/ghorahismc/posts/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - 照片| Facebook",
+        "url": "https://zh-cn.facebook.com/ghorahismc/photos/"
+      },
+      {
+        "fullMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1862337620705538"
+          }
+        ],
+        "pageTitle": "Ghorahi Sub-Metropolitan City - Publicaciones | Facebook",
+        "url": "https://es-la.facebook.com/ghorahismc/posts/"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://cdn5.eyeem.com/thumb/9121ff9130a97d48797fb08b1f15b2d7a44430a0-1476386934778/w/850"
+      },
+      {
+        "url": "https://www.londonskybar.com/wp-content/uploads/2019/10/AV-wide-night-view.jpg"
+      },
+      {
+        "url": "https://www.wentdiary.com/wp-content/uploads/things-to-do-in-la-at-night.jpg"
+      },
+      {
+        "url": "https://www.therooftopguide.com/rooftop-news/Bilder/Romantic-Vertigo-2.jpg"
+      },
+      {
+        "url": "https://blog.fuertehoteles.com/wp-content/uploads/2016/11/malaga-vista-noche.jpg"
+      },
+      {
+        "url": "https://dtmw9u23bb9ya.cloudfront.net/system/articles/pictures/480/content_northumbria-newcastle.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5335d89de4b09ed6be209a2d/1545854161471-9G3XIB90L8Q7GCM00QKB/ke17ZwdGBToddI8pDm48kFoujlKg1px6RJBYkR9yu2p7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jAoOkRmPE63FUjiJOEKAz6Wnk5FpQtCWlaG3lH0Y0eMt2dDRFl-nKXHDwQ5oGMWvg/AMB_8449-6.jpg?format=500w"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5335d89de4b09ed6be209a2d/1545854202830-NH6549E2G5D43LS2MN6B/ke17ZwdGBToddI8pDm48kBZyqnheuomzY-N2ltinDc17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0qN_-Z3B7EvygvPOPmeOryWLgWshE974iBQIOto8pAY6Ld2S-xg25d0eR43cnpyECg/AMB_8454-6.jpg?format=2500w"
+      }
+    ],
+    "webEntities": [
+      {
+        "description": "Ghorahi Sub-Metropolitan City(Office of the Municipal Executive)",
+        "entityId": "/g/11h0ynkgpc",
+        "score": 0.7584039
+      },
+      {
+        "entityId": "/t/278zkcv8qt287",
+        "score": 0.5703
+      },
+      {
+        "description": "Sub-Metropolitan City",
+        "entityId": "/g/11g0wgyvvt",
+        "score": 0.2891
+      },
+      {
+        "description": "Ghorahi Sub-Metropolitan City Office",
+        "entityId": "/g/11bz0wdt4r",
+        "score": 0.24117722
+      },
+      {
+        "description": "City",
+        "entityId": "/m/01n32",
+        "score": 0.2372
+      },
+      {
+        "description": "Cityscape",
+        "entityId": "/m/034z7h",
+        "score": 0.19563532
+      },
+      {
+        "description": "Metropolitan area",
+        "entityId": "/m/0j_s4",
+        "score": 0.18276091
+      },
+      {
+        "description": "Photograph",
+        "entityId": "/m/068jd",
+        "score": 0.1817
+      },
+      {
+        "description": "Photography",
+        "entityId": "/m/05wkw",
+        "score": 0.1688
+      },
+      {
+        "description": "Wallpaper",
+        "entityId": "/m/03w43x",
+        "score": 0.16100988
+      },
+      {
+        "description": "Estuvieron Aqui",
+        "entityId": "/g/11gdkp7xf0",
+        "score": 0.1542
+      },
+      {
+        "description": "Image",
+        "entityId": "/m/0jg24",
+        "score": 0.1465
+      },
+      {
+        "description": "Ghorahi",
+        "entityId": "/m/02r4pvc",
+        "score": 0.06437356
+      },
+      {
+        "description": "Dang",
+        "entityId": "/m/08ckvn",
+        "score": 0.0018807361
+      },
+      {
+        "description": "Nepal",
+        "entityId": "/m/016zwt",
+        "score": 0.00026256003
+      }
+    ]
+  }
+},
+
+"1" : {
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 240
+            },
+            {
+              "x": 752
+            },
+            {
+              "x": 752,
+              "y": 639
+            },
+            {
+              "x": 240,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.5,
+        "importanceFraction": 0.7111111
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 159
+            },
+            {
+              "x": 800
+            },
+            {
+              "x": 800,
+              "y": 639
+            },
+            {
+              "x": 159,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.5,
+        "importanceFraction": 0.888889
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 95
+            },
+            {
+              "x": 864
+            },
+            {
+              "x": 864,
+              "y": 639
+            },
+            {
+              "x": 95,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.46875003,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 240
+            },
+            {
+              "x": 752
+            },
+            {
+              "x": 752,
+              "y": 639
+            },
+            {
+              "x": 240,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.5,
+        "importanceFraction": 0.7111111
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 159
+            },
+            {
+              "x": 800
+            },
+            {
+              "x": 800,
+              "y": 639
+            },
+            {
+              "x": 159,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.5,
+        "importanceFraction": 0.888889
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 95
+            },
+            {
+              "x": 864
+            },
+            {
+              "x": 864,
+              "y": 639
+            },
+            {
+              "x": 95,
+              "y": 639
+            }
+          ]
+        },
+        "confidence": 0.46875003,
+        "importanceFraction": 1
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 228,
+            "green": 170,
+            "red": 144
+          },
+          "hex": "90AAE4",
+          "percent": 45.435663927642075,
+          "percentRounded": 45,
+          "pixelFraction": 0.11773137,
+          "rgb": "144, 170,\n 228",
+          "score": 0.34448093
+        },
+        {
+          "color": {
+            "blue": 59,
+            "green": 81,
+            "red": 97
+          },
+          "hex": "61513B",
+          "percent": 5.507049810527792,
+          "percentRounded": 6,
+          "pixelFraction": 0.033306032,
+          "rgb": "97, 81,\n 59",
+          "score": 0.041752964
+        },
+        {
+          "color": {
+            "blue": 90,
+            "green": 85,
+            "red": 204
+          },
+          "hex": "CC555A",
+          "percent": 0.4029274790323571,
+          "percentRounded": 0,
+          "pixelFraction": 0.0016380016,
+          "rgb": "204, 85,\n 90",
+          "score": 0.0030548873
+        },
+        {
+          "color": {
+            "blue": 238,
+            "green": 182,
+            "red": 157
+          },
+          "hex": "9DB6EE",
+          "percent": 28.753038418397825,
+          "percentRounded": 29,
+          "pixelFraction": 0.07671308,
+          "rgb": "157, 182,\n 238",
+          "score": 0.21799777
+        },
+        {
+          "color": {
+            "blue": 39,
+            "green": 48,
+            "red": 221
+          },
+          "hex": "DD3027",
+          "percent": 0.08585493176992333,
+          "percentRounded": 0,
+          "pixelFraction": 0.00013650014,
+          "rgb": "221, 48,\n 39",
+          "score": 0.0006509289
+        },
+        {
+          "color": {
+            "blue": 225,
+            "green": 188,
+            "red": 170
+          },
+          "hex": "AABCE1",
+          "percent": 6.37447586232663,
+          "percentRounded": 6,
+          "pixelFraction": 0.022727273,
+          "rgb": "170, 188,\n 225",
+          "score": 0.048329554
+        },
+        {
+          "color": {
+            "blue": 31,
+            "green": 51,
+            "red": 66
+          },
+          "hex": "42331F",
+          "percent": 3.9764852545204024,
+          "percentRounded": 4,
+          "pixelFraction": 0.022044772,
+          "rgb": "66, 51,\n 31",
+          "score": 0.030148637
+        },
+        {
+          "color": {
+            "blue": 90,
+            "green": 114,
+            "red": 131
+          },
+          "hex": "83725A",
+          "percent": 3.8989301304652586,
+          "percentRounded": 4,
+          "pixelFraction": 0.027163528,
+          "rgb": "131, 114,\n 90",
+          "score": 0.029560635
+        },
+        {
+          "color": {
+            "blue": 48,
+            "green": 50,
+            "red": 59
+          },
+          "hex": "3B3230",
+          "percent": 2.7947048214153325,
+          "percentRounded": 3,
+          "pixelFraction": 0.024160525,
+          "rgb": "59, 50,\n 48",
+          "score": 0.021188697
+        },
+        {
+          "color": {
+            "blue": 79,
+            "green": 82,
+            "red": 91
+          },
+          "hex": "5B524F",
+          "percent": 2.7708693639024307,
+          "percentRounded": 3,
+          "pixelFraction": 0.024297025,
+          "rgb": "91, 82,\n 79",
+          "score": 0.021007983
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Social group",
+      "mid": "/m/01b4q9",
+      "score": 0.9732984,
+      "topicality": 0.9732984
+    },
+    {
+      "description": "People",
+      "mid": "/m/09g5pq",
+      "score": 0.9450432,
+      "topicality": 0.9450432
+    },
+    {
+      "description": "Community",
+      "mid": "/m/01qls",
+      "score": 0.88639617,
+      "topicality": 0.88639617
+    },
+    {
+      "description": "Youth",
+      "mid": "/m/021dfr",
+      "score": 0.82782567,
+      "topicality": 0.82782567
+    },
+    {
+      "description": "Soil",
+      "mid": "/m/09dv7",
+      "score": 0.7489721,
+      "topicality": 0.7489721
+    },
+    {
+      "description": "Tree",
+      "mid": "/m/07j7r",
+      "score": 0.74697447,
+      "topicality": 0.74697447
+    },
+    {
+      "description": "Team",
+      "mid": "/m/011l78",
+      "score": 0.72682774,
+      "topicality": 0.72682774
+    },
+    {
+      "description": "Fun",
+      "mid": "/m/0ds99lh",
+      "score": 0.7039424,
+      "topicality": 0.7039424
+    },
+    {
+      "description": "Geology",
+      "mid": "/m/036hv",
+      "score": 0.67967594,
+      "topicality": 0.67967594
+    },
+    {
+      "description": "Adaptation",
+      "mid": "/m/03r_vp",
+      "score": 0.6696612,
+      "topicality": 0.6696612
+    },
+    {
+      "description": "Landscape",
+      "mid": "/m/025s3q0",
+      "score": 0.59305805,
+      "topicality": 0.59305805
+    },
+    {
+      "description": "Plant",
+      "mid": "/m/05s2s",
+      "score": 0.58547497,
+      "topicality": 0.58547497
+    },
+    {
+      "description": "Leisure",
+      "mid": "/m/04g3r",
+      "score": 0.5618612,
+      "topicality": 0.5618612
+    },
+    {
+      "description": "Tourism",
+      "mid": "/m/07bxq",
+      "score": 0.5114329,
+      "topicality": 0.5114329
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.62811905,
+            "y": 0.3957806
+          },
+          {
+            "x": 0.72848016,
+            "y": 0.3957806
+          },
+          {
+            "x": 0.72848016,
+            "y": 0.6420276
+          },
+          {
+            "x": 0.62811905,
+            "y": 0.6420276
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.9295356
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.5696959,
+            "y": 0.45983407
+          },
+          {
+            "x": 0.6494782,
+            "y": 0.45983407
+          },
+          {
+            "x": 0.6494782,
+            "y": 0.661635
+          },
+          {
+            "x": 0.5696959,
+            "y": 0.661635
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.9178799
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.37064555,
+            "y": 0.46324793
+          },
+          {
+            "x": 0.600445,
+            "y": 0.46324793
+          },
+          {
+            "x": 0.600445,
+            "y": 0.7859316
+          },
+          {
+            "x": 0.37064555,
+            "y": 0.7859316
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.9167193
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.17353255,
+            "y": 0.47756335
+          },
+          {
+            "x": 0.3603307,
+            "y": 0.47756335
+          },
+          {
+            "x": 0.3603307,
+            "y": 0.74207014
+          },
+          {
+            "x": 0.17353255,
+            "y": 0.74207014
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.91138875
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.5771351,
+            "y": 0.23510885
+          },
+          {
+            "x": 0.6523739,
+            "y": 0.23510885
+          },
+          {
+            "x": 0.6523739,
+            "y": 0.46581137
+          },
+          {
+            "x": 0.5771351,
+            "y": 0.46581137
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.9060497
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.6387397,
+            "y": 0.21749528
+          },
+          {
+            "x": 0.7262867,
+            "y": 0.21749528
+          },
+          {
+            "x": 0.7262867,
+            "y": 0.4523549
+          },
+          {
+            "x": 0.6387397,
+            "y": 0.4523549
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.8973611
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.7619714,
+            "y": 0.18218523
+          },
+          {
+            "x": 0.8567798,
+            "y": 0.18218523
+          },
+          {
+            "x": 0.8567798,
+            "y": 0.45873633
+          },
+          {
+            "x": 0.7619714,
+            "y": 0.45873633
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.89369464
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.11397936,
+            "y": 0.24461043
+          },
+          {
+            "x": 0.24536479,
+            "y": 0.24461043
+          },
+          {
+            "x": 0.24536479,
+            "y": 0.60355276
+          },
+          {
+            "x": 0.11397936,
+            "y": 0.60355276
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.892432
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.26506525,
+            "y": 0.25793633
+          },
+          {
+            "x": 0.3452122,
+            "y": 0.25793633
+          },
+          {
+            "x": 0.3452122,
+            "y": 0.4504354
+          },
+          {
+            "x": 0.26506525,
+            "y": 0.4504354
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.89208746
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.045116257,
+            "y": 0.48920855
+          },
+          {
+            "x": 0.25468215,
+            "y": 0.48920855
+          },
+          {
+            "x": 0.25468215,
+            "y": 0.77439207
+          },
+          {
+            "x": 0.045116257,
+            "y": 0.77439207
+          }
+        ]
+      },
+      "mid": "/m/01g317",
+      "name": "Person",
+      "score": 0.88444895
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.69462013,
+            "y": 0.36282018
+          },
+          {
+            "x": 0.7915955,
+            "y": 0.36282018
+          },
+          {
+            "x": 0.7915955,
+            "y": 0.61881936
+          },
+          {
+            "x": 0.69462013,
+            "y": 0.61881936
+          }
+        ]
+      },
+      "mid": "/m/04yx4",
+      "name": "Man",
+      "score": 0.8705101
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.7816839,
+            "y": 0.3707424
+          },
+          {
+            "x": 0.90416473,
+            "y": 0.3707424
+          },
+          {
+            "x": 0.90416473,
+            "y": 0.65987694
+          },
+          {
+            "x": 0.7816839,
+            "y": 0.65987694
+          }
+        ]
+      },
+      "mid": "/m/04yx4",
+      "name": "Man",
+      "score": 0.8632957
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.10935858,
+            "y": 0.30223218
+          },
+          {
+            "x": 0.1921572,
+            "y": 0.30223218
+          },
+          {
+            "x": 0.1921572,
+            "y": 0.51687557
+          },
+          {
+            "x": 0.10935858,
+            "y": 0.51687557
+          }
+        ]
+      },
+      "mid": "/m/0hf58v5",
+      "name": "Luggage & bags",
+      "score": 0.7516368
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.053151894,
+            "y": 0.596724
+          },
+          {
+            "x": 0.18284756,
+            "y": 0.596724
+          },
+          {
+            "x": 0.18284756,
+            "y": 0.7724294
+          },
+          {
+            "x": 0.053151894,
+            "y": 0.7724294
+          }
+        ]
+      },
+      "mid": "/m/0fly7",
+      "name": "Jeans",
+      "score": 0.7017055
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.46247074,
+            "y": 0.24079369
+          },
+          {
+            "x": 0.54858464,
+            "y": 0.24079369
+          },
+          {
+            "x": 0.54858464,
+            "y": 0.44883344
+          },
+          {
+            "x": 0.46247074,
+            "y": 0.44883344
+          }
+        ]
+      },
+      "mid": "/m/04yx4",
+      "name": "Man",
+      "score": 0.6731444
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.6996147,
+            "y": 0.22093602
+          },
+          {
+            "x": 0.7755108,
+            "y": 0.22093602
+          },
+          {
+            "x": 0.7755108,
+            "y": 0.4266419
+          },
+          {
+            "x": 0.6996147,
+            "y": 0.4266419
+          }
+        ]
+      },
+      "mid": "/m/04yx4",
+      "name": "Man",
+      "score": 0.6315308
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.45623335,
+            "y": 0.6131397
+          },
+          {
+            "x": 0.5922105,
+            "y": 0.6131397
+          },
+          {
+            "x": 0.5922105,
+            "y": 0.7665461
+          },
+          {
+            "x": 0.45623335,
+            "y": 0.7665461
+          }
+        ]
+      },
+      "mid": "/m/07mhn",
+      "name": "Pants",
+      "score": 0.59024405
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "POSSIBLE"
+  },
+  "webDetection": {
+    "bestGuessLabels": [
+      {
+        "label": "tree"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://blog.resolutefp.com/wp-content/uploads/2015/05/Brinkman-Crossroute-Team.jpg"
+      },
+      {
+        "url": "http://www.centralstation.net.au/wp-content/uploads/2017/10/6.2-copy-1-1024x768.jpg"
+      },
+      {
+        "url": "https://www.palisadesnews.com/wp-content/uploads/2019/02/50396361_2288604447824751_255328774885736448_o-e1549051469100.jpg"
+      },
+      {
+        "url": "https://www.clc.org.au/clc-annual-report-2018/CLC_ar_2018-web-resources/image/Page-39-180310_Tjukurla_Trip_(34).jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/58a5cd4c1b631ba87b535a90/1496618935883-4A7AL9T7OB93INCWTZZ9/ke17ZwdGBToddI8pDm48kDk1dm1oSR9gCa1mX4KqzjN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luj0xCD0oh5KMc0gpox0u-wQWxfQHg04OxgQwaUq2yiAcNt5Kg2tE9yEtYfM4xwaw/image-asset.jpeg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-eGNtKxSi-4U/WxwALp4g5oI/AAAAAAAAjUI/9jTzuhsi9wwtMfFOJc_WdSRyNuwMx-5DwCLcBGAs/s1600/macha%2Bsoccer%2Bteam%2B-%2B1.jpg"
+      },
+      {
+        "url": "https://i.cbc.ca/1.4645483.1525290068!/fileImage/httpImage/image.JPG_gen/derivatives/original_780/tree-planting-volunteers-in-irish-cove-cape-breton.JPG"
+      },
+      {
+        "url": "https://sebastiancorp.com/wp-content/uploads/2014/06/124.jpg"
+      },
+      {
+        "url": "https://www.ashevillegreenworks.org/uploads/1/1/3/3/11332507/5154279_orig.jpg"
+      },
+      {
+        "url": "https://28oqfzwgd4k3dnvhm1euidz1-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/download-17.png"
+      },
+      {
+        "url": "https://media.glassdoor.com/l/bd/4b/5a/37/castlight-team-at-the-ragnar-race-in-zion-national-park.jpg"
+      },
+      {
+        "url": "https://www.nacc.com.au/wp-content/uploads/2018/09/The-2018-Gunnado-BioBlitz-Team-NACC.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/ea/45/18/community-ride.jpg"
+      },
+      {
+        "url": "https://s3-ap-southeast-2.amazonaws.com/content.communitynews.com.au/2019/07/09153053/494471pES.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/D9Yzn38WkAAZWFv.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1720291811356609"
+      }
+    ],
+    "webEntities": [
+      {
+        "description": "Rural area",
+        "entityId": "/m/01f4td",
+        "score": 0.27928054
+      },
+      {
+        "description": "Landscape",
+        "entityId": "/m/025s3q0",
+        "score": 0.24653842
+      },
+      {
+        "description": "Soil",
+        "entityId": "/m/09dv7",
+        "score": 0.24566604
+      },
+      {
+        "description": "Tree",
+        "entityId": "/m/07j7r",
+        "score": 0.24515587
+      },
+      {
+        "description": "Community",
+        "entityId": "/m/01qls",
+        "score": 0.22203326
+      },
+      {
+        "description": "M-tree",
+        "entityId": "/m/0c015tr",
+        "score": 0.2155
+      },
+      {
+        "description": "Recreation",
+        "entityId": "/m/06bm2",
+        "score": 0.21446866
+      }
+    ]
+  }
+}
+}
